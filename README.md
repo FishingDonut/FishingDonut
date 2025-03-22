@@ -12,7 +12,7 @@
 ## Contacts and Social Media
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/FishingDonut-3726a4257/)
-[![Mail](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white)](mailto:FishingDonut.mafra@icloud.com)
+[![Mail](https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white)](mailto:FishingDonut@icloud.com)
 
 ### study repository
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FishingDonut-edu/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FishingDonut/)
