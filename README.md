@@ -41,8 +41,10 @@
 
 ## Thanks
 
+<br>
+
 <div align="center">
-  <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" height="150" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGdvb2pxanQycWJseGdsNGpybDAyamJwcjBpNXplNnNjM3lncmhzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1IynFUeOif20g/giphy.gif" height="150" />
 </div>
 
 <br/>
