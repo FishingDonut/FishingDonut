@@ -39,7 +39,7 @@
 
 <br/>
 
-## Fun Touch
+## Thanks
 
 <div align="center">
   <img src="https://media.giphy.com/media/4ilFRqgbzbx4c/giphy.gif" height="150" />
@@ -48,11 +48,13 @@
 <br/>
 
 <!-- Optional GitHub trophies section -->
-<!--
+
+## Achievements
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FishingDonut&theme=flat&no-bg=true&no-frame=true" />
 </div>
--->
+
 
 ---
 
